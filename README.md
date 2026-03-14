@@ -36,7 +36,6 @@ Developed under the guidance of **Prof. Nitin Arora, Amity University**
 - System Architecture
 - Folder Structure
 - Database Schema
-- API Endpoints
 - Environment Variables
 - Local Development Setup
 - Deployment
